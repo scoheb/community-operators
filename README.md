@@ -78,3 +78,4 @@ Report bugs using the project issue tracker.
 [required-fields]: https://github.com/operator-framework/community-operators/blob/master/docs/required-fields.md
 [operator-courier]: https://github.com/operator-framework/operator-courier
 [sdk-scorecard]:https://github.com/operator-framework/operator-sdk/blob/master/doc/test-framework/scorecard.md
+
